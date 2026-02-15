@@ -15,9 +15,6 @@ Container deployment
 
 Continuous delivery to cloud
 
-🏗️ Architecture Overview
-Developer → GitHub → CI Pipeline → Docker Build → Container Registry → Cloud Deployment
-
 
 Cloud tools supported:
 
