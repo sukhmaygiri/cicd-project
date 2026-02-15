@@ -25,7 +25,10 @@ Perform automated unit & integration testing
 Deploy using cloud-native tools
 
 Enable automated build → test → deploy flow
+
+
 ⚙️ CI/CD Workflow
+
 Step 1: Code Push
 
 Developer pushes code to GitHub main branch.
