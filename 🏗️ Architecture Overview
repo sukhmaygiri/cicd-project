@@ -1,0 +1,15 @@
+Developer
+   ↓
+GitHub Repository
+   ↓
+CI Pipeline (GitHub Actions)
+   ↓
+Automated Testing
+   ↓
+Docker Image Build
+   ↓
+Container Registry (Docker Hub / ECR)
+   ↓
+Cloud Deployment (EC2 / Azure VM / GCP)
+   ↓
+Live Application
